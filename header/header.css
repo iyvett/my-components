@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+header {
+  text-align: center;
+  font-family: 'Montserrat'sans-serif;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  border-bottom: 1px solid rgba(0,0,0,.1);
+}
+header img {
+  width: 60px;
+  border: 3px solid rgba(0,0,0,.1);
+  border-radius: 100%;
+  padding: .25rem;
+}
+h2, h3 {
+  padding: 0.5rem;
+}
+h2 {
+  font-weight: bold;
+  font-size: 28px;
+  color:   #808080;
+}
+h3 {
+  text-transform: uppercase;
+  letter-spacing: 0.05rem;
+  color:  #a6a6a6;
+}
